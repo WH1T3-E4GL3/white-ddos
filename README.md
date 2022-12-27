@@ -1,6 +1,15 @@
 # white-ddos
 This is a tool used for ddos attack.
- Command : python2 white-ddos.py <IP> <PORT> <PACKETS>
+
+commands
+_______________
+$ apt update -y && apt upgrade -y
+$ pkg install git
+$ pkg install figlet
+$ pkg install python2
+$ git clone https://github.com/WH1T3-E4GL3/white-ddos.git
+$ cd white-ddos
+$ python2 white-ddos.py <IP> <PORT> <PACKETS>
  
 example : python2 white-ddos.py 104.27.190.77 8080 100  
 	
