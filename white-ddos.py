@@ -4,6 +4,7 @@ import random
 import sys
 import os
 
+os.system("git pull")
 os.system("figlet white-ddos")
 print "Tool Devoloped By WHITE_EAGLE"
 print "starting in 5 seconds....."
