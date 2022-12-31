@@ -1,5 +1,9 @@
 # white-ddos
+# Author : white eagle
+
 This is a tool used for ddos attack.
+
+This is a  tool used for single port ddos attack. As  it attacks to a single port you can target a specific service/port .
 
 commands
 _______________
